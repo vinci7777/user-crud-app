@@ -5,7 +5,7 @@ An app that I created to refresh myself memory, when it comes to how to create a
 Technologies and languages that I use here are:
 - Java
 - Spring Boot
-- MySQl
+- MySQL
 - Spring Web
 - Spring Data JPA
 
